@@ -8,5 +8,10 @@ public class Coordonnees {
 		y = y1;
 		z = z2;
 	}
+	public void ajouter(Coordonnees c){
+		x += c.x;
+		y += c.y;
+		z += c.z;
+	}
 	
 }
