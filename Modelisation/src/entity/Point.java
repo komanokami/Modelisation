@@ -4,7 +4,7 @@ import publics.Coordonnees;
 
 public class Point {
 	private Coordonnees c;
-	public Point(int x, int y, int z){
+	public Point(double x, double y, double z){
 		c = new Coordonnees(x, y, z);
 	}
 }
