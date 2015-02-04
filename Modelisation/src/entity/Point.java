@@ -1,6 +1,6 @@
 package entity;
 
-import move.Coordonnees;
+import publics.Coordonnees;
 
 public class Point {
 	private Coordonnees c;

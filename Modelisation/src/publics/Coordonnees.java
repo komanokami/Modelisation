@@ -1,4 +1,4 @@
-package move;
+package publics;
 
 public class Coordonnees {
 	private int x, y, z;
