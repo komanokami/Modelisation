@@ -10,7 +10,7 @@ public class Item {
 	}
 	
 	public void rotation(){
-		
+		System.out.println("coucou");
 	}
 	
 	public void translation(){
