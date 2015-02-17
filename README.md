@@ -1,2 +1,2 @@
 # Modelisation
-On va en chier
+Vive la modé \o/
